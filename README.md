@@ -44,7 +44,7 @@ Hi! I’m Dev X — a passionate learner stepping into the world of programming 
 
 ## 🛠 Tech Stack (Learning)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,python,c++" />
 </p>
 
 ---
